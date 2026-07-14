@@ -5,8 +5,7 @@ import os
 # ---- YOUR SETTINGS ----
 BOT_TOKEN = "8693301178:AAF2nNn4Igy_Da5UW347uX7LLv95QfokVyc"
 OWNER_CHAT_ID = "7766147200"
-WELCOME_MESSAGE = "Special VC(with cowgirl pose, doggy pose, loud moan) spanking \n\, tongue showing , playing : 3200k for 12 mins, 2200k for 8 mins \n\ Normal VC: 1700 for 10 mins, 1200k for 6 mins    
-# -------------------------
+WELCOME_MESSAGE = "Special VC(with cowgirl pose, doggy pose, loud moan) spanking\n\ntongue showing , playing : 3k for 12 mins, 2k for 8 mins\n\nNormal VC: 1500 for 10 mins, 1k for 6 mins"# -------------------------
 
 API_URL = f"https://api.telegram.org/bot{BOT_TOKEN}"
 app = Flask(__name__)
